@@ -25,4 +25,4 @@ t.pendown()
 t.color('white')
 t.write('bentuknya love dulu yaa -dhamski', font = ('Verdana',12,'bold'))
 
-turtle.done()
+s.exitonclick()
