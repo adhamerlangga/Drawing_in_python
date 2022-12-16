@@ -14,4 +14,10 @@ for i in range(45):
         t.circle(190-i/3,90)
         t.lt(60)
 
+t.penup()
+t.goto(-290,250)
+t.pendown()
+t.color('white')
+t.write('ini bagus tapi kok bentuknya ga kayak bunga ya beb', font = ('Verdana',15,'bold'))
+
 s.exitonclick()
