@@ -23,6 +23,6 @@ t.penup()
 t.goto(-150,130)
 t.pendown()
 t.color('white')
-t.write('bentuknya love dulu yaa -dhamski', font = ('Verdana',12,'bold'))
+t.write('yang ini bentuk love -dhamski', font = ('Verdana',12,'bold'))
 
 s.exitonclick()
