@@ -20,7 +20,7 @@ t.end_fill()
 
 # if you don't get it, you could change the write string and goto function parameters
 t.penup()
-t.goto(-150,130)
+t.goto(-125,130)
 t.pendown()
 t.color('white')
 t.write('yang ini bentuk love -dhamski', font = ('Verdana',12,'bold'))
