@@ -18,6 +18,6 @@ t.penup()
 t.goto(-290,250)
 t.pendown()
 t.color('white')
-t.write('ini bagus tapi kok bentuknya ga kayak bunga ya beb', font = ('Verdana',15,'bold'))
+t.write('your text here', font = ('Verdana',15,'bold'))
 
 s.exitonclick()

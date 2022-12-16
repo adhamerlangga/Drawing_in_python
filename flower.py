@@ -22,6 +22,6 @@ t.penup()
 t.goto(-270,250)
 t.pendown()
 t.color('black')
-t.write('kali ini bentuknya lebih bunga kan hehe -dhamski', font = ('Verdana',15,'bold'))
+t.write('your text here', font = ('Verdana',15,'bold'))
 
 s.exitonclick()
