@@ -1,4 +1,4 @@
-# Drawing_in_python
+# Drawing using Python package Turtle
 trying using turtle to draw some images (requested by someone special)
 
 here some of the results:
